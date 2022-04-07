@@ -1,0 +1,64 @@
+portfolioitems:
+  # portfolio category
+  - title: Vivid light show
+    portfolioitem:
+      - name: Globloks
+        image: '/images/portfolio/code.jpg'
+        link: https://gohugo.io/
+        linktext: 'Visit project website'
+        description: 'Vivid light show application and results'
+        tags:
+          - Tag 1
+          - Tag 2
+        status: 'Finished'
+        start: '2020'
+        end: '2021'
+        authors:
+          - sylvieha
+          - uni cohort
+      - name: Robot Vacuum
+        image: '/images/portfolio/code.jpg'
+        link: https://gohugo.io/
+        description: 'Design and built a robot vacuum for design competition '
+        status: 'Finished'
+        tags:
+          - Tag 1
+          - Tag 2
+        start: '2020'
+        end: '2020'
+        authors:
+          - sylvieha
+      - name: CAD design
+        link: https://gohugo.io/
+        status: 'Finished'
+        description: 'Designed a cotton pad holder'
+        tags:
+          - Tag 1
+          - Tag 2
+        start: '2022'
+        end: '2022'
+        authors:
+          - sylvieha
+  # portfolio category
+  - title: Research
+    portfolioitem:
+      - name: Thesis
+        image: '/images/portfolio/code.jpg'
+        description: 'Object Detection '
+        tags:
+          - Tag 1
+          - Tag 2
+  #    - name: Project 2
+  #      image: '/images/portfolio/code.jpg'
+  #      link: https://gohugo.io/
+  #      description: 'You can click on [**this link**](#codingprojects) to scroll to my Coding Projects portfolio'
+  #      tags:
+  #        - Tag 1
+  #        - Tag 2
+  #    - name: Project 3
+  #      image: '/images/portfolio/code.jpg'
+  #      link: https://gohugo.io/
+  #      description: 'A description'
+  #      tags:
+  #        - Tag 1
+  #        - Tag 2
