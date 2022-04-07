@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sydney on My blog</title>
+    <link>https://sylvha.github.io/tags/sydney/</link>
+    <description>Recent content in sydney on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 10 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sylvha.github.io/tags/sydney/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bracelet Making</title>
+      <link>https://sylvha.github.io/post/bracelet/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sylvha.github.io/post/bracelet/</guid>
+      
+        <description>A page about my experiences making beads</description>
+      
+    </item>
+    
+    <item>
+      <title>Resin Earrings</title>
+      <link>https://sylvha.github.io/post/resin_earrings/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sylvha.github.io/post/resin_earrings/</guid>
+      
+        <description>A page about my experience making resin earrings</description>
+      
+    </item>
+    
+    <item>
+      <title>Drawing on Procreate</title>
+      <link>https://sylvha.github.io/post/digital_art/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://sylvha.github.io/post/digital_art/</guid>
+      
+        <description>A page about my experience drawing on Procreate</description>
+      
+    </item>
+    
+    <item>
+      <title>Graduation</title>
+      <link>https://sylvha.github.io/post/graduation/</link>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://sylvha.github.io/post/graduation/</guid>
+      
+        <description>A page for me to dump my graduation photos</description>
+      
+    </item>
+    
+    <item>
+      <title>Pansy Plany</title>
+      <link>https://sylvha.github.io/post/pansyplant/</link>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://sylvha.github.io/post/pansyplant/</guid>
+      
+        <description>A page the flowers I grew</description>
+      
+    </item>
+    
+    <item>
+      <title>Balmoral Beach</title>
+      <link>https://sylvha.github.io/post/balmoral_beach/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://sylvha.github.io/post/balmoral_beach/</guid>
+      
+        <description>A page about Balmoral Beach trip</description>
+      
+    </item>
+    
+  </channel>
+</rss>
