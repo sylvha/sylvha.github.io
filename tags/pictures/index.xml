@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pictures on My blog</title>
+    <link>https://sylvha.github.io/tags/pictures/</link>
+    <description>Recent content in pictures on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 16 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://sylvha.github.io/tags/pictures/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sunshine Coast Trip</title>
+      <link>https://sylvha.github.io/post/sunshine_coast/</link>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://sylvha.github.io/post/sunshine_coast/</guid>
+      
+        <description>A page for the Sunshine Coast Trip</description>
+      
+    </item>
+    
+  </channel>
+</rss>
