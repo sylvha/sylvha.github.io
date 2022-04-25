@@ -9,3 +9,5 @@ tags = [
 +++
 
 A page for new year's eve dump
+
+{{< figure src="/images/nye.jpg" alt="Graduation Collage" width="800px">}}
